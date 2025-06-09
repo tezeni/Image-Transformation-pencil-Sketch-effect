@@ -1,7 +1,5 @@
 # Image-Transformation-pencil-Sketch-effect
-Author: Tigist Gedu
-Course: Computer Vision
-Date: June 9, 2025
+
 
 Project Description
 
@@ -25,3 +23,6 @@ Install dependencies: opencv and matplotlib
 Place images and the main.py script in the same path 
 Run the script: python main.py
 transformed image will be displayed
+Author: Tigist Gedu
+Course: Computer Vision
+Date: June 9, 2025
